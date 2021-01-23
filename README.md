@@ -5,5 +5,6 @@ Tecnica para imprimir iconos gratuitos de Font Awesome en la web sin la necesida
 Se usa el valor Unicodes de los iconos en la propiedad content de los pseudoelementos CSS para lograr hacer un uso de estos mediante clases.
 
 ## Enlaces
+- Ejemplo en vivo: https://noobsammy.github.io/pseudoelementos-fa5/
 - Video explicativo: https://youtu.be/or8hMD8x8pw
 - Articulo de Font Awesome: https://fontawesome.com/how-to-use/on-the-web/advanced/css-pseudo-elements
